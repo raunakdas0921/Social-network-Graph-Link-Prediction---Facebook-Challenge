@@ -21,4 +21,3 @@ Taken data from facebook's recruting challenge on kaggle https://www.kaggle.com/
 ## Performance metric for supervised learning:
 
 - Both precision and recall is important so F1 score is good choice - Confusion matrix
-- 
