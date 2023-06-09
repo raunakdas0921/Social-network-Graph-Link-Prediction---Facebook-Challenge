@@ -16,7 +16,7 @@ Taken data from facebook's recruting challenge on kaggle https://www.kaggle.com/
 ## Business objectives and constraints: 
 
 1) No low-latency requirement.
-2) Probability of prediction is useful to recommend ighest probability links
+2) Probability of prediction is useful to recommend highest probability links
 
 ## Performance metric for supervised learning:
 
